@@ -8,5 +8,3 @@ You can find the most recent version of this guide [here](https://github.com/fac
 A restaurant website that allows users too add orders from a menu and submits their orders
 
 ![screenshot](/src/reactGalvaizeDeliver.gif?raw=true)
-
-# Website
